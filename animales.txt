@@ -1,12 +1,9 @@
 zorro
 caballo
 gato
-<<<<<<< HEAD
 perro
 gallo
 pollo
-=======
 oso
 rana
 perro
->>>>>>> 81a7a5df4a7a26a23d5e2273b23f8776b201b86d
