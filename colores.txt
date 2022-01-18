@@ -1,3 +1,5 @@
 rojo
 azul
 verde
+gris
+amarillo
