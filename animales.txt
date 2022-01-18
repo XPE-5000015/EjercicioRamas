@@ -1,3 +1,6 @@
 zorro
 caballo
 gato
+oso
+rana
+perro

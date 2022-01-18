@@ -1,3 +1,5 @@
 cuadrado
 circulo
 triangulo
+pentagono
+hexagono
